@@ -1,0 +1,1 @@
+<!-- display single blog page -->
